@@ -1,4 +1,4 @@
-### Hi there, I'm [DevDaniel!](https://portfolio.ddaniel.ro) ✔️
+<h1> ### Hi there, I'm [DevDaniel!](https://portfolio.ddaniel.ro) ✔️</h1>
 
 <br />
 <br />
@@ -12,7 +12,7 @@
 <br />
 <br />
 
-<h2>**Languages and Tools**</h2>
+<h4>**Languages and Tools**</h4>
 
 <br/>
 <code><img height="30" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
