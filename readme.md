@@ -1,14 +1,13 @@
 ### Hi there, I'm [DevDaniel!](https://portfolio.ddaniel.ro) 👋
 
+<br />
+<br />
 
 
-- 👋 Hi there, I’m Dev Daniel , a passionate web developer from Transilvania 🇷🇴. 
-
-- 👀 I’m interested in Web Developer
-
-- 🌱 I’m currently learning Bootstrap 4 ; JavaScript ; ReactJS
-
-- 📫 ddaniel.andrei@utlook.com
+    - 👋 Hi there, I’m Dev Daniel , a passionate web developer from Transilvania 🇷🇴. 
+    - 👀 I’m interested in FrontEnd Web Developer
+    - 🌱 I’m currently learning Bootstrap 4 ; JavaScript ; ReactJS
+    - 📫 ddaniel.andrei@utlook.com
 
 <br />
 <br />
