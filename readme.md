@@ -1,4 +1,4 @@
-### Hi there, I'm [DevDaniel!](https://portfolio.ddaniel.ro) 👋
+### Hi there, I'm [DevDaniel!](https://portfolio.ddaniel.ro) ✔️
 
 <br />
 <br />
