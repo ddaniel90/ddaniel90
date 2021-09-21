@@ -1,4 +1,8 @@
-- 👋 Hi there, I’m Daniel Andrei
+### Hi there, I'm [DevDaniel!](https://portfolio.ddaniel.ro) 👋
+
+
+
+- 👋 Hi there, I’m Dev Daniel , a passionate web developer from Transilvania 🇷🇴. 
 
 - 👀 I’m interested in Web Developer
 
