@@ -1,6 +1,6 @@
 ### Hello World, I'm [DevDaniel!](https://portfolio.ddaniel.ro) ✔️
     
-<img align="right" alt="GIF" src="https://github.com/ddaniel90/ddaniel90/blob/main/programmer.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/ddaniel90/ddaniel90/blob/main/programmer.gif?raw=true" width="400" height="320" />
 
 
 <br />
