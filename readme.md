@@ -9,7 +9,7 @@
 
  - 👋 Hi there, I’m Dev Daniel , a passionate web developer from Transilvania 🇷🇴. 
  - 👀 I’m interested in FrontEnd Web Developer
- - 📖 I’m currently learning Bootstrap 4 ; JavaScript ; ReactJS
+ - 📖 I’m currently learning JavaScript ; ReactJS
  - 📧 ddaniel.andrei@utlook.com
 
 <br />
