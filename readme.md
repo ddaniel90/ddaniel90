@@ -13,7 +13,7 @@
 
 ## I'm a passionate web developer from Transilvania !! 🇷🇴
  - 👀 I’m interested in FrontEnd Web Developer
- -:memo: I’m currently learning JavaScript ; ReactJS
+ - 📖 I’m currently learning JavaScript ; ReactJS
  - :computer: Most used line of code `git commit -m "Initial Commit"`
  - 📧 ddaniel.andrei@utlook.com
 
