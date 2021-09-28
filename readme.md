@@ -1,4 +1,4 @@
-# Hello World, I'm [DevDaniel!](https://portfolio.ddaniel.ro) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hello World, I'm [DevDaniel!](https://portfolio.ddaniel.ro) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> :ro:
     
 <img align="right" alt="GIF" src="https://github.com/ddaniel90/ddaniel90/blob/main/programmer.gif?raw=true" width="500" height="320" />
 <br />
