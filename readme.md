@@ -2,8 +2,13 @@
     
 <img align="right" alt="GIF" src="https://github.com/ddaniel90/ddaniel90/blob/main/programmer.gif?raw=true" width="500" height="320" />
 <br />
+
 :mailbox: Reach me out!
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel-0e76a8?style=flat&labelColor=00A19D&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreidaniel/) [![Mail Badge](https://img.shields.io/badge/-@calvinomu-ffef78?style=flat&labelColor=00A19D&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-ddaniel.andrei-FFB319?style=flat&labelColor=00A19D&logo=gmail&logoColor=white)](mailto:ddaniel.andrei@outlook.com)
+
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+)
+
+
 ## I'm a passionate web developer from Transilvania !! 🇷🇴
  - 👀 I’m interested in FrontEnd Web Developer
  - 📖 I’m currently learning JavaScript ; ReactJS
