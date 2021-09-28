@@ -2,7 +2,8 @@
     
 <img align="right" alt="GIF" src="https://github.com/ddaniel90/ddaniel90/blob/main/programmer.gif?raw=true" width="500" height="320" />
 <br />
-
+:mailbox: Reach me out!
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel-0e76a8?style=flat&labelColor=00A19D&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreidaniel/) [![Mail Badge](https://img.shields.io/badge/-@calvinomu-ffef78?style=flat&labelColor=00A19D&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-ddaniel.andrei-FFB319?style=flat&labelColor=00A19D&logo=gmail&logoColor=white)](mailto:ddaniel.andrei@outlook.com)
 ## I'm a passionate web developer from Transilvania !! 🇷🇴
  - 👀 I’m interested in FrontEnd Web Developer
  - 📖 I’m currently learning JavaScript ; ReactJS
@@ -11,7 +12,7 @@
 <br />
 <br />
 
-<h3>**Languages and Tools**</h3>
+## ⚡ Technologies
 
 <br/>
 <code><img height="30" title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
