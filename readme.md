@@ -13,7 +13,7 @@
 
 ## I'm a passionate web developer from Transilvania !! 🇷🇴
  - :dart: I’m interested in FrontEnd Web Developer
- - :memo::mortar_board: I’m currently learning ReactJS
+ - :memo::mortar_board: I’m currently learning on DigitalNation bootcamp
  - :computer: Most used line of code 
        `git commit -m "Initial Commit"`
  - 📧 ddaniel.andrei@utlook.com
