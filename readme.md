@@ -16,7 +16,7 @@
  - :dart: I’m interested in FrontEnd Web Developer
  - :memo::mortar_board: I’m currently learning on DigitalNation bootcamp
  - :computer: Most used line of code 
-       `git commit -m "Initial Commit"`
+       git add . && git commit -m "initial commit"
  - 📧 ddaniel.andrei@utlook.com
 
 <br />
